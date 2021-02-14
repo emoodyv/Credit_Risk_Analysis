@@ -29,4 +29,4 @@ Below are the balanced accuracy results for the six different machine learning m
 ![eec](https://user-images.githubusercontent.com/71234992/107864143-e5e10f80-6e16-11eb-9140-a77721e510aa.PNG)
 
 ## Summary
-It is clear from the results above that the Easy Ensemble AdaBoost Classifier sampling machine learning method is the most accurate 
+It is clear from the results above that the Easy Ensemble AdaBoost Classifier sampling machine learning method is the most accurate with an accuracy over 90%. As such, this is the best method to use.
